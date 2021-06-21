@@ -20,7 +20,7 @@ body {
 }
 
 .mainBody .sidebar {
-  background: #1c4784;
+  background: #1d4784;
   height: auto;
   flex: 0 0 200px;
 }
@@ -56,7 +56,7 @@ header {
 
 .message-area-wrapper {
   border-radius: 5px;
-  border: 1px solid #1b1e21;
+  border: 1px solid #1c1e21;
   width: 100%;
 }
 
